@@ -1,4 +1,5 @@
-baseURL = 'http://dancing-bubblegum-b18316.netlify.app/'
+baseURL = '/'
+canonifyURLs = false
 languageCode = 'en-us'
 title = 'InManuBytes'
 theme = "hugo-theme-console"
